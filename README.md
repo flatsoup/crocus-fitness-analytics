@@ -109,7 +109,7 @@ python analysis_plotly.py --output outputs/my_report.html
 ![Crocus Fitness Dashboard](Crocus_Analysis/outputs/crocus_dashboard_v3.png)
 
 ### Interactive (Plotly)
-[Open Interactive Dashboard](Crocus_Analysis/outputs/crocus_dashboard.html)
+[Open Interactive Dashboard](https://flatsoup.github.io/crocus-fitness-analytics/Crocus_Analysis/outputs/crocus_dashboard.html)
 ---
 
 ## Tech Stack
