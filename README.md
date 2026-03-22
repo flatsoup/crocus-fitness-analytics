@@ -108,6 +108,8 @@ python analysis_plotly.py --output outputs/my_report.html
 ### Static (Matplotlib)
 ![Crocus Fitness Dashboard](Crocus_Analysis/outputs/crocus_dashboard_v3.png)
 
+### Interactive (Plotly)
+[Open Interactive Dashboard](Crocus_Analysis/outputs/crocus_dashboard.html)
 ---
 
 ## Tech Stack
