@@ -106,7 +106,7 @@ python analysis_plotly.py --output outputs/my_report.html
 ## Dashboard Preview
 
 ### Static (Matplotlib)
-![Crocus_Analysis](outputs/crocus_dashboard_v3.png)
+![Crocus Fitness Dashboard](Crocus_Analysis/outputs/crocus_dashboard_v3.png)
 
 ---
 
